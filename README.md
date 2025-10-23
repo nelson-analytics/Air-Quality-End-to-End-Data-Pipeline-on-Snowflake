@@ -16,6 +16,8 @@ This solution empowers environmental analysts, policymakers, and the public to m
 
 ## 🧱 End-to-End Data Flow Architecture
 
+![Alt text](images/Layered-Architecture-Standard-Names.png)
+
 ### 1️⃣ Data Source Layer
 - **Inputs:** Air Quality data from public HTTP APIs and marketplace shared databases.  
 - **Automation:** Hourly **GitHub Actions** trigger data extraction workflows.  
