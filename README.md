@@ -35,7 +35,8 @@ This solution empowers environmental analysts, policymakers, and the public to m
 - **Purpose:** Flatten, cleanse, and standardize data.  
 - **Process:**
   - Parse and flatten JSON into structured tables using Snowflake SQL.  
-  - Apply validation, null handling, and type consistency checks.  
+  - Apply validation, null handling, and type consistency checks.
+  - Transform some rows into column formats
   - Store results as **Flatten Tables**.
 
 ### 4️⃣ Consumption Layer
