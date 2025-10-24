@@ -1,5 +1,8 @@
 # 🌍 Air Quality Data Pipeline on Snowflake
 
+## Problem Statement
+Air quality data is widely available online; however, most platforms only provide real-time snapshots without access to historical trends or comparative analytics across cities. This limits the ability to analyze long-term pollution patterns, track environmental improvements, or perform predictive modeling.
+
 ## 🧭 Project Overview
 This project implements an **end-to-end data pipeline architecture** using **Snowflake (on AWS)** to collect, process, and visualize **Air Quality Index (AQI)** data from multiple global monitoring stations.  
 It automates hourly data extraction, performs data cleansing and modeling, and publishes real-time dashboards for analysis and decision-making.
