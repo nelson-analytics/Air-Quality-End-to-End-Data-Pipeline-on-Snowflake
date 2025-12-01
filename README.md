@@ -100,7 +100,6 @@ This solution empowers environmental analysts, policymakers, and the public to m
 ---
 
 
-📧 Contact: [LinkedIn Profile](https://www.linkedin.com/) | [GitHub](https://github.com/macmichael-analytics)
 
 
 
